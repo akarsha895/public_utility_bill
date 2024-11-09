@@ -1,0 +1,20 @@
+[
+  {
+    "userId": 3,
+    "type": "Internet",
+    "amount": 75,
+    "date": "2024-11-09",
+    "dueDate": "2024-11-14",
+    "isUrgent": true,
+    "timestamp": "2024-11-09T17:19:23.243Z"
+  },
+  {
+    "userId": 1,
+    "type": "Electricity",
+    "amount": 100,
+    "date": "2024-11-09",
+    "dueDate": "2024-11-15",
+    "isUrgent": true,
+    "timestamp": "2024-11-09T17:19:26.216Z"
+  }
+]
